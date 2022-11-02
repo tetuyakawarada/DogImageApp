@@ -10,6 +10,7 @@ import Alamofire
 import Kingfisher
 
 
+
 struct dogApiResponce: Codable {
     let message: String
     let status: String
