@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A70E1086290EBA09004392F0 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A70E1085290EBA09004392F0 /* Constants.swift */; };
 		A7FA9A02290EAA9A00EE51D8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FA9A01290EAA9A00EE51D8 /* AppDelegate.swift */; };
 		A7FA9A04290EAA9A00EE51D8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FA9A03290EAA9A00EE51D8 /* SceneDelegate.swift */; };
 		A7FA9A06290EAA9A00EE51D8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FA9A05290EAA9A00EE51D8 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		0D30FDC6513EA22EDD607FD2 /* Pods-DogImageApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DogImageApp.debug.xcconfig"; path = "Target Support Files/Pods-DogImageApp/Pods-DogImageApp.debug.xcconfig"; sourceTree = "<group>"; };
 		2E44BEACFDD342307B1F79D6 /* Pods_DogImageApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DogImageApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A70E1085290EBA09004392F0 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		A7FA99FE290EAA9A00EE51D8 /* DogImageApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DogImageApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7FA9A01290EAA9A00EE51D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A7FA9A03290EAA9A00EE51D8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,7 +58,6 @@
 				0D30FDC6513EA22EDD607FD2 /* Pods-DogImageApp.debug.xcconfig */,
 				B31C53A713DD6B64DF76CBA4 /* Pods-DogImageApp.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -84,6 +85,7 @@
 				A7FA9A01290EAA9A00EE51D8 /* AppDelegate.swift */,
 				A7FA9A03290EAA9A00EE51D8 /* SceneDelegate.swift */,
 				A7FA9A05290EAA9A00EE51D8 /* ViewController.swift */,
+				A70E1085290EBA09004392F0 /* Constants.swift */,
 				A7FA9A07290EAA9A00EE51D8 /* Main.storyboard */,
 				A7FA9A0A290EAA9B00EE51D8 /* Assets.xcassets */,
 				A7FA9A0C290EAA9B00EE51D8 /* LaunchScreen.storyboard */,
@@ -210,6 +212,7 @@
 				A7FA9A06290EAA9A00EE51D8 /* ViewController.swift in Sources */,
 				A7FA9A02290EAA9A00EE51D8 /* AppDelegate.swift in Sources */,
 				A7FA9A04290EAA9A00EE51D8 /* SceneDelegate.swift in Sources */,
+				A70E1086290EBA09004392F0 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
